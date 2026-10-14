@@ -1,0 +1,5 @@
+# Preserve ANSI/ASCII art bytes and embedded terminal control sequences.
+*.ANS -text
+*.ASC -text
+*.ans -text
+*.asc -text

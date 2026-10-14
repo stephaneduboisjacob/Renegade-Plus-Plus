@@ -1,0 +1,30 @@
+# Local build and runtime state
+/build/
+/data/
+/var/
+/files/
+*.sqlite3
+*.sqlite3-shm
+*.sqlite3-wal
+*.key
+*.pem
+*.log
+
+# Keep the historical source tree and archive out of this standalone C++ release.
+/SOURCE/
+/PASCAL/
+/Archive.zip
+
+# Internal parity notes are maintained in the working checkout, not the public guide set.
+/FULL-PARITY-PLAN.md
+/LEGACY-IMPORT-NOTES.md
+/PARITY-LEDGER.md
+/ROADMAP.md
+/WORKLOG-*.md
+
+# Local editor and environment state
+.DS_Store
+.idea/
+.vscode/
+.env
+.env.*
