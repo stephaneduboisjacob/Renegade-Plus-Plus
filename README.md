@@ -80,4 +80,6 @@ The server reads bulletin panels from `bulletins/`, quote text from `quotes/`, a
 
 Renegade BBS was created and maintained by the Renegade Development Team. The selected ANSI panels are credited to Roy in the supplied art collection; individual source filenames and hashes are recorded in `assets/ansi/imported/manifest.json`. See [CREDITS.md](CREDITS.md) for details.
 
+The public repository is rooted in this `cpp/` project directory. The separate `SOURCE/` and `PASCAL/` trees and `Archive.zip` remain outside this repository and are excluded by its ignore rules.
+
 This repository does not yet include a project license. GitHub visibility does not itself grant permission to reuse the code or third-party artwork. Existing copyright and creator notices remain with their respective holders.
