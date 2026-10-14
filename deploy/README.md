@@ -22,7 +22,13 @@ sudo install -d -o renegade -g renegade -m 0750 /var/lib/renegade/data /var/lib/
 sudo -u renegade ssh-keygen -t ed25519 -N '' -f /var/lib/renegade/var/ssh_host_ed25519_key
 ```
 
-Place the `bulletins/`, `quotes/`, and `taglines/` content directories under `/var/lib/renegade`, or adjust the service's working directory and arguments.
+Install the sample content directories so callers see the demo bulletins, quotes, and taglines:
+
+```sh
+sudo cp -a bulletins quotes taglines /var/lib/renegade/
+```
+
+The service unit points the content readers and SFTP file storage at `/var/lib/renegade`. Its ANSI panels use the default paths under `/opt/renegade/assets/ansi`.
 
 ## Configure and start systemd
 
