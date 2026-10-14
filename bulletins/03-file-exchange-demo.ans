@@ -1,0 +1,23 @@
+[2J[H[1;94m+------------------------------------------------------------------------------+[0m
+[96m|                    RENEGADE++  //  THE UNDERGROUND BOARD                     |[0m
+[1;94m+------------------------------------------------------------------------------+[0m
+[97m|                                                                              |[0m
+[93m|                      DEMO BULLETIN 03  /  FILE EXCHANGE                      |[0m
+[96m|      SFTP keeps downloads and uploads on the same encrypted SSH service      |[0m
+[97m|                                                                              |[0m
+[94m+------------------------------------------------------------------------------+[0m
+[97m|                                                                              |[0m
+[97m| Connect with:  sftp -P 2222 HANDLE@YOUR-BBS-HOST                             |[0m
+[97m| List public areas:  ls /files                                                |[0m
+[97m| Download a file:  get /files/AREA_ID/FILENAME                                |[0m
+[97m| Send a file for review:  put LOCAL_FILE /incoming/FILENAME                   |[0m
+[97m|                                                                              |[0m
+[97m| Incoming files stay private until a SysOp reviews and publishes them.        |[0m
+[97m| Area access, download rules, quotas, and points may apply.                   |[0m
+[97m| Replace YOUR-BBS-HOST and the sample port with your operator settings.       |[0m
+[97m|                                                                              |[0m
+[95m|               THIS IS SAMPLE CONTENT FOR A FRESH BOARD SETUP.                |[0m
+[90m|       Replace or remove these bulletins from the bulletins/ directory.       |[0m
+[97m|                                                                              |[0m
+[1;94m+------------------------------------------------------------------------------+[0m
+[1;94m+------------------------------------------------------------------------------+[0m

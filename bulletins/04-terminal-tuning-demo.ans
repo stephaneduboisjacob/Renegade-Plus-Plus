@@ -1,0 +1,23 @@
+[2J[H[1;92m+------------------------------------------------------------------------------+[0m
+[96m|                    RENEGADE++  //  THE UNDERGROUND BOARD                     |[0m
+[1;92m+------------------------------------------------------------------------------+[0m
+[97m|                                                                              |[0m
+[93m|                     DEMO BULLETIN 04  /  TERMINAL TUNING                     |[0m
+[96m|                    Get the classic ANSI layout on screen                     |[0m
+[97m|                                                                              |[0m
+[92m+------------------------------------------------------------------------------+[0m
+[97m|                                                                              |[0m
+[97m| Recommended viewport: 80 columns by 25 rows.                                 |[0m
+[97m| Use an SSH client with ANSI color and UTF-8/CP437 line-drawing support.      |[0m
+[97m| If colors look flat, enable ANSI / color in your caller profile.             |[0m
+[97m| If text wraps, widen the terminal to 80 columns before connecting.           |[0m
+[97m|                                                                              |[0m
+[97m| The featured entrance, main menu, message areas, file areas, and chat        |[0m
+[97m| use colorful ANSI panels. The gallery contains the full artwork library.     |[0m
+[97m| Use the arrow keys and Enter where a selector is shown.                      |[0m
+[97m|                                                                              |[0m
+[95m|               THIS IS SAMPLE CONTENT FOR A FRESH BOARD SETUP.                |[0m
+[90m|       Replace or remove these bulletins from the bulletins/ directory.       |[0m
+[97m|                                                                              |[0m
+[1;92m+------------------------------------------------------------------------------+[0m
+[1;92m+------------------------------------------------------------------------------+[0m

@@ -1,0 +1,1 @@
+A quiet node is just a conversation that has not started yet.
