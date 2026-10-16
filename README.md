@@ -1,5 +1,13 @@
 # Renegade++ v1.7.5 for Linux
 
+<p align="center">
+  <img src="images/renegade_logo.png" alt="Renegade++ logo banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="images/renegade_icon.png" alt="Renegade++ icon" width="96">
+</p>
+
 **TCP/IP C++ Port of the Renegade Bulletin Board System**  
 Linux · SSH terminal · ANSI/ASCII · multi-node
 
