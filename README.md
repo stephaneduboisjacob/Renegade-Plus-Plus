@@ -94,6 +94,4 @@ A heartfelt thank-you to Roy/SAC (Carsten Cumbrowski) for preserving and sharing
 
 RoySAC identifies Roy's personal ANSI/ASCII artwork as public domain. The galleries also include work by other artists, which is not necessarily public domain. Creator attributions remain with each piece where supplied in its signature or source filename; please consult the original artist before reusing other artists' work. See [Roy/SAC's galleries](https://www.roysac.com/galleries.html), [his ANSI artwork](https://www.roysac.com/roy_ansishow.html), [ANSI art by other artists](https://www.roysac.com/otheransi.html), and [ASCII art by other artists](https://www.roysac.com/otherascii.html).
 
-The public repository is rooted in this `cpp/` project directory. The separate `SOURCE/` and `PASCAL/` trees and `Archive.zip` remain outside this repository and are excluded by its ignore rules.
-
 This repository does not yet include a project license. GitHub visibility does not itself grant permission to reuse the code or third-party artwork. Existing copyright and creator notices remain with their respective holders.
