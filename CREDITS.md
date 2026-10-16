@@ -23,4 +23,4 @@ The bulletin, quote, and tagline files marked as demo content were written for t
 
 ## Licensing
 
-No separate license for Renegade++ source code or the included third-party artwork has been selected in this repository. Copyright remains with the respective creators. Do not treat this credit page as a license or as a transfer of rights.
+Renegade++ source code authored by Stephane Jacob is licensed under the [MIT License](LICENSE). That license does not apply to third-party artwork in `assets/ansi/imported/` or other material credited to its creator. Such material remains under its respective copyright and reuse terms; this project does not grant permission to reuse it. Third-party dependencies retain their own licenses.
