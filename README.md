@@ -88,6 +88,12 @@ The server reads bulletin panels from `bulletins/`, quote text from `quotes/`, a
 
 Renegade BBS was created and maintained by the Renegade Development Team. The selected ANSI panels are credited to Roy in the supplied art collection; individual source filenames and hashes are recorded in `assets/ansi/imported/manifest.json`. See [CREDITS.md](CREDITS.md) for details.
 
+### Thanks to Roy/SAC and the ANSI/ASCII artists
+
+A heartfelt thank-you to Roy/SAC (Carsten Cumbrowski) for preserving and sharing his ANSI/ASCII art and the wider history of the scene. We also thank the artists whose work RoySAC preserves and credits, including Jed (ACiD), Olli (Black Maiden), Creature of Hell (CH), and the many other contributors featured in its galleries. These pieces are wonderful souvenirs of the BBS scene; seeing them again brings back the color, craft, and community of those days. Thank you all for keeping that spirit alive.
+
+RoySAC identifies Roy's personal ANSI/ASCII artwork as public domain. The galleries also include work by other artists, which is not necessarily public domain. Creator attributions remain with each piece where supplied in its signature or source filename; please consult the original artist before reusing other artists' work. See [Roy/SAC's galleries](https://www.roysac.com/galleries.html), [his ANSI artwork](https://www.roysac.com/roy_ansishow.html), [ANSI art by other artists](https://www.roysac.com/otheransi.html), and [ASCII art by other artists](https://www.roysac.com/otherascii.html).
+
 The public repository is rooted in this `cpp/` project directory. The separate `SOURCE/` and `PASCAL/` trees and `Archive.zip` remain outside this repository and are excluded by its ignore rules.
 
 This repository does not yet include a project license. GitHub visibility does not itself grant permission to reuse the code or third-party artwork. Existing copyright and creator notices remain with their respective holders.
